@@ -43,9 +43,9 @@ This project consists of a backend API written in Go and a frontend UI built wit
    # or
    yarn install
    ```
-3. Set up environment variables. Create a `.env.local` file:
+3. Set up environment variables. Create a `.env.` file (you can use `.env.example` if it exists):
    ```env
-   NEXT_PUBLIC_API_URL=http://localhost:8080
+   NEXT_PUBLIC_API_URL=http://localhost:8080/api/v1/menu
    ```
 
 ## How to run in development mode
