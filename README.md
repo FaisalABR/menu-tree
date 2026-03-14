@@ -2,6 +2,9 @@
 
 This project consists of a backend API written in Go and a frontend UI built with Next.js for managing a hierarchical menu structure.
 
+## Demo Link
+https://drive.google.com/file/d/1eWWrJCo52zyi9JRIzUmzXBvFjlh3ejd6/view?usp=sharing
+
 ## Setup Instructions
 
 ### Prerequisites
